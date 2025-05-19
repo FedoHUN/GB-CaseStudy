@@ -51,7 +51,7 @@ gymbeam-case-study/
 
 ```bash
 git clone https://github.com/FedoHUN/GB-CaseStudy.git
-cd gymbeam-case-study
+cd GB-CaseStudy
 ```
 
 2. Install the dependencies:
